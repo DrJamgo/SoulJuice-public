@@ -1,5 +1,5 @@
 # SoulJuice (Public)
-Public portion of SoulJuice.
+Public portion of [SoulJuice](https://drjamgo.github.io/SoulJuice).
 
 The main purpose is to collect Issues from Testers.
 
